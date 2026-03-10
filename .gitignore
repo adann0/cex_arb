@@ -1,0 +1,9 @@
+.DS_Store
+venv
+__pycache__
+.coverage
+.pytest_cache/
+db.*
+*.json
+*.gz
+*.sql
