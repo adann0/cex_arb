@@ -40,6 +40,8 @@ make plot
 
 24 hours of PENGU/USDT data: **197 opportunities**, **28.24 USDT** total profit (with no frontrun or latency modeling).
 
+*(Why PENGU? : Taker/taker arb requires pricing inefficiencies across venues. On BTC/USDT, market makers keep spreads tight everywhere. PENGU is listed on all 9 exchanges but with uneven depth, which creates real fragmentation. At ~28 USDT/day on a single pair, the edge is structurally below the profitability threshold of institutional desks - infra and compliance costs dwarf the returns. This is precisely why the inefficiency persists: it lives in a blind spot too thin for large players but real enough for lightweight setups).*
+
 ### Cumulative Profit
 
 ![Cumulative Profit](plots/cumulative_profit.png)
